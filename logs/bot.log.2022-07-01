@@ -1,0 +1,879 @@
+2022-06-29 17:23:13,954 DEBUG bot.py Start
+2022-06-29 17:23:16,969 DEBUG bot.py user:  1736358410 Y None ; request text: П7п6п
+2022-06-29 17:23:17,132 DEBUG bot.py request text is NOT correct
+2022-06-29 17:23:17,133 DEBUG bot.py user:  1736358410 Y None ; end request
+2022-06-29 17:23:22,293 DEBUG bot.py user:  1736358410 Y None ; request text: Нгрм7
+2022-06-29 17:23:22,401 DEBUG bot.py request text is NOT correct
+2022-06-29 17:23:22,401 DEBUG bot.py user:  1736358410 Y None ; end request
+2022-06-29 17:24:03,298 DEBUG bot.py Start
+2022-06-29 17:24:09,608 DEBUG bot.py user:  1736358410 Y None ; request text: 201185800
+2022-06-29 17:24:09,608 DEBUG bot.py request text is correct
+2022-06-29 17:24:09,771 DEBUG bot.py start function request_to_regietr
+2022-06-29 17:24:09,772 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 17:24:14,226 DEBUG api_request.py status code 503
+2022-06-29 17:24:14,369 DEBUG bot.py user:  1736358410 Y None ; end request
+2022-06-29 18:38:29,031 DEBUG bot.py user:  1736358410 Y None ; request text: Гмо
+2022-06-29 18:38:29,154 DEBUG bot.py request text is NOT correct
+2022-06-29 18:38:29,154 DEBUG bot.py user:  1736358410 Y None ; end request
+2022-06-29 18:41:38,983 DEBUG bot.py Start
+2022-06-29 18:41:53,463 DEBUG bot.py user: 1736358410 Y None; request text: Бот
+2022-06-29 18:41:53,625 DEBUG bot.py request text is NOT correct
+2022-06-29 18:41:53,626 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:42:12,509 DEBUG bot.py user: 1736358410 Y None; request text: 201185800
+2022-06-29 18:42:12,580 DEBUG bot.py request text is correct
+2022-06-29 18:42:12,706 DEBUG bot.py start function request_to_regietr
+2022-06-29 18:42:12,707 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 18:42:15,478 DEBUG api_request.py status code 503
+2022-06-29 18:43:06,618 DEBUG bot.py Start
+2022-06-29 18:43:11,800 DEBUG bot.py user: 1736358410 Y None; request text: Рпр
+2022-06-29 18:43:11,998 DEBUG bot.py request text is NOT correct
+2022-06-29 18:43:11,998 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:43:36,273 DEBUG bot.py user: 1736358410 Y None; request text: 201185800
+2022-06-29 18:43:36,274 DEBUG bot.py request text is correct
+2022-06-29 18:43:36,453 DEBUG bot.py start function request_to_regietr
+2022-06-29 18:43:36,454 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 18:43:39,243 DEBUG api_request.py status code 503
+2022-06-29 18:43:39,550 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:44:10,638 DEBUG bot.py Start
+2022-06-29 18:44:15,699 DEBUG bot.py user: 1736358410 Y None; request text: О
+2022-06-29 18:44:15,816 DEBUG bot.py request text is NOT correct
+2022-06-29 18:44:15,816 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:44:21,844 DEBUG bot.py user: 1736358410 Y None; request text: 201185800
+2022-06-29 18:44:21,844 DEBUG bot.py request text is correct
+2022-06-29 18:44:21,992 DEBUG bot.py start function request_to_regietr
+2022-06-29 18:44:21,993 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 18:44:24,504 DEBUG api_request.py status code 503
+2022-06-29 18:44:24,633 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:45:52,984 DEBUG bot.py Start
+2022-06-29 18:46:01,479 DEBUG bot.py user: 1736358410 Y None; request text: Роо
+2022-06-29 18:46:01,589 DEBUG bot.py request text is NOT correct
+2022-06-29 18:46:01,590 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 18:46:05,887 DEBUG bot.py user: 1736358410 Y None; request text: 201185800
+2022-06-29 18:46:05,888 DEBUG bot.py request text is correct
+2022-06-29 18:46:06,055 DEBUG bot.py start function request_to_regietr
+2022-06-29 18:46:06,055 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 18:46:08,544 DEBUG api_request.py status code 503
+2022-06-29 18:46:08,702 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:01:18,077 DEBUG bot.py user: 1736358410 Y None; request text: Uvhvjv
+2022-06-29 19:01:18,208 DEBUG bot.py request text is NOT correct
+2022-06-29 19:01:18,208 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:01:25,241 DEBUG bot.py user: 1736358410 Y None; request text: 201185800
+2022-06-29 19:01:25,241 DEBUG bot.py request text is correct
+2022-06-29 19:01:25,386 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:01:25,387 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:01:28,536 DEBUG api_request.py status code 503
+2022-06-29 19:01:28,824 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:04:28,252 DEBUG bot.py user: 1736358410 Y None; request text: 291543270
+2022-06-29 19:04:28,252 DEBUG bot.py request text is correct
+2022-06-29 19:04:28,374 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:04:28,374 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:04:31,298 DEBUG api_request.py status code 503
+2022-06-29 19:04:31,418 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:29:06,474 DEBUG bot.py user: 1736358410 Y None; request text: 291543270
+2022-06-29 19:29:06,474 DEBUG bot.py request text is correct
+2022-06-29 19:29:06,579 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:29:06,579 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:29:08,545 DEBUG api_request.py status code 503
+2022-06-29 19:29:08,886 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:33:55,506 DEBUG bot.py Start
+2022-06-29 19:33:55,904 DEBUG bot.py user: 837261741 Денис None; request text: ты живой, бот?
+2022-06-29 19:33:55,908 DEBUG bot.py user: 837261741 Денис None; request text: 291543270
+2022-06-29 19:33:55,908 DEBUG bot.py request text is correct
+2022-06-29 19:33:55,910 DEBUG bot.py user: 1736358410 Y None; request text: mm
+2022-06-29 19:33:56,008 DEBUG bot.py request text is NOT correct
+2022-06-29 19:33:56,008 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-29 19:33:56,168 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:33:56,169 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:33:59,263 DEBUG api_request.py status code 503
+2022-06-29 19:33:59,267 DEBUG bot.py request text is NOT correct
+2022-06-29 19:33:59,267 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-29 19:33:59,389 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-29 19:35:00,522 DEBUG bot.py user: 837261741 Денис None; request text: 291543270
+2022-06-29 19:35:00,523 DEBUG bot.py request text is correct
+2022-06-29 19:35:00,637 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:35:00,638 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:35:02,239 DEBUG api_request.py status code 503
+2022-06-29 19:35:02,505 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-29 19:36:15,048 DEBUG bot.py user: 837261741 Денис None; request text: 291543270
+2022-06-29 19:36:15,048 DEBUG bot.py request text is correct
+2022-06-29 19:36:15,164 DEBUG bot.py start function request_to_regietr
+2022-06-29 19:36:15,165 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:36:19,349 DEBUG api_request.py status code 503
+2022-06-29 19:36:19,494 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-29 19:52:59,492 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:53:02,576 DEBUG api_request.py status code 503
+2022-06-29 19:53:02,576 DEBUG api_request.py send request to tax inspection
+2022-06-29 19:53:39,709 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:53:40,977 DEBUG api_request.py status code 503
+2022-06-29 19:53:40,977 DEBUG api_request.py send request to tax inspection
+2022-06-29 19:53:52,243 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:53:53,372 DEBUG api_request.py status code 503
+2022-06-29 19:53:53,372 DEBUG api_request.py send request to tax inspection
+2022-06-29 19:57:19,241 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 19:57:24,622 DEBUG api_request.py status code 503
+2022-06-29 19:57:24,623 DEBUG api_request.py send request to tax inspection
+2022-06-29 20:03:39,926 DEBUG bot.py user: 837261741 Денис None; request text: ну че ты
+2022-06-29 20:03:40,098 DEBUG bot.py request text is NOT correct
+2022-06-29 20:03:40,098 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-29 20:03:48,629 DEBUG bot.py user: 837261741 Денис None; request text: 291543270
+2022-06-29 20:03:48,629 DEBUG bot.py request text is correct
+2022-06-29 20:03:48,892 DEBUG bot.py start function request_to_regietr
+2022-06-29 20:03:48,892 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-29 20:03:58,254 DEBUG api_request.py status code 503
+2022-06-29 20:03:58,563 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-30 06:29:16,689 DEBUG bot.py Start
+2022-06-30 06:29:17,063 DEBUG bot.py user: 1736358410 Y None; request text: Ро
+2022-06-30 06:29:17,155 DEBUG bot.py request text is NOT correct
+2022-06-30 06:29:17,155 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 06:29:21,373 DEBUG bot.py user: 1736358410 Y None; request text: р
+2022-06-30 06:29:21,554 DEBUG bot.py request text is NOT correct
+2022-06-30 06:29:21,554 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 06:29:28,438 DEBUG bot.py user: 1736358410 Y None; request text: 291543270
+2022-06-30 06:29:28,438 DEBUG bot.py request text is correct
+2022-06-30 06:29:28,533 DEBUG bot.py start function request_to_regietr
+2022-06-30 06:29:28,534 DEBUG api_request.py send request getBaseInfoByRegNum
+2022-06-30 06:29:33,694 DEBUG api_request.py status code 503
+2022-06-30 06:29:33,796 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 06:36:16,847 CRITICAL bot_log.py Test critical event
+2022-06-30 06:36:16,847 ERROR bot_log.py Test error ivent
+2022-06-30 06:36:16,847 DEBUG bot_log.py Test debug ivent
+2022-06-30 06:36:16,848 INFO bot_log.py Test info ivent
+2022-06-30 06:42:18,855 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:42:26,500 DEBUG egr_request.py status code 503
+2022-06-30 06:42:38,416 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:42:40,549 DEBUG egr_request.py status code 503
+2022-06-30 06:43:17,635 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:43:23,762 DEBUG egr_request.py status code 503
+2022-06-30 06:44:13,811 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:44:19,131 DEBUG egr_request.py status code 503
+2022-06-30 06:44:37,919 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:44:46,405 DEBUG egr_request.py status code 503
+2022-06-30 06:50:20,742 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:51:38,578 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 06:51:43,218 DEBUG egr_request.py status code 503
+2022-06-30 06:53:02,799 CRITICAL bot_log.py Test critical event
+2022-06-30 06:53:02,799 ERROR bot_log.py Test error ivent
+2022-06-30 06:53:02,799 DEBUG bot_log.py Test debug ivent
+2022-06-30 06:53:02,799 INFO bot_log.py Test info ivent
+2022-06-30 06:59:41,365 CRITICAL bot_log.py Test critical event
+2022-06-30 06:59:41,365 ERROR bot_log.py Test error ivent
+2022-06-30 06:59:41,365 DEBUG bot_log.py Test debug ivent
+2022-06-30 06:59:41,365 INFO bot_log.py Test info ivent
+2022-06-30 07:02:02,197 CRITICAL bot_log.py Test critical event
+2022-06-30 07:02:02,197 ERROR bot_log.py Test error ivent
+2022-06-30 07:02:02,197 DEBUG bot_log.py Test debug ivent
+2022-06-30 07:02:02,197 INFO bot_log.py Test info ivent
+2022-06-30 07:04:10,116 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 07:04:21,155 DEBUG egr_request.py status code 503
+2022-06-30 07:04:42,762 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 07:04:49,783 DEBUG egr_request.py status code 503
+2022-06-30 10:19:27,148 DEBUG bot.py Start
+2022-06-30 10:19:34,061 DEBUG bot.py user: 1736358410 Y None; request text: добиьм
+2022-06-30 10:19:34,170 DEBUG bot.py request text is NOT correct
+2022-06-30 10:19:34,170 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 11:17:42,684 DEBUG bot.py Start
+2022-06-30 12:19:59,010 DEBUG bot.py Start
+2022-06-30 12:20:52,191 DEBUG bot.py Start
+2022-06-30 12:21:03,420 DEBUG bot.py user: 1736358410 Y None; request text: Пот
+2022-06-30 12:21:03,547 DEBUG bot.py request text is NOT correct
+2022-06-30 12:21:03,548 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 14:10:32,342 DEBUG bot.py Start
+2022-06-30 14:10:45,016 DEBUG bot.py Start
+2022-06-30 14:11:32,241 DEBUG bot.py user: 1736358410 Y None; request text: 190525419
+2022-06-30 14:11:32,241 DEBUG bot.py request text is correct
+2022-06-30 14:11:32,427 DEBUG bot.py start function request_to_regietr
+2022-06-30 14:11:32,427 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 14:11:51,698 DEBUG egr_request.py status code 200
+2022-06-30 14:12:11,244 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Наименование: Шмыга Анжела Викторовна
+Адрес: Информация относится к персональным данным. Доступна по ссылке.
+Состояние: Действующий
+Регистрационный номер: 190525419
+Регистрирующий орган (на текущую дату): Минский городской исполнительный комитет
+Регистрирующий орган (при регистрации): Минский городской исполнительный комитет
+Дата регистрации: 2004-03-17
+телефон: Информация относится к персональным данным. Доступна по ссылке.
+сайт: Информация относится к персональным данным. Доступна по ссылке.
+email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=190525419
+2022-06-30 14:12:11,623 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 15:59:45,031 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 16:08:04,688 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 16:08:46,438 DEBUG bot.py user: 1736358410 Y None; request text: 190525419
+2022-06-30 16:08:46,438 DEBUG bot.py request text is correct
+2022-06-30 16:08:46,660 DEBUG bot.py start function request_to_regietr
+2022-06-30 16:08:46,660 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 16:12:15,183 DEBUG bot.py Start
+2022-06-30 16:12:15,708 DEBUG bot.py user: 1736358410 Y None; request text: 190525419
+2022-06-30 16:12:15,708 DEBUG bot.py request text is correct
+2022-06-30 16:12:15,912 DEBUG bot.py start function request_to_regietr
+2022-06-30 16:12:15,912 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 16:12:54,862 DEBUG egr_request.py status code 200
+2022-06-30 16:22:55,112 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 16:31:36,972 DEBUG bot.py Start
+2022-06-30 16:31:43,713 DEBUG bot.py user: 1736358410 Y None; request text: g
+2022-06-30 16:31:44,049 DEBUG bot.py request text is NOT correct
+2022-06-30 16:31:44,049 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:32:04,142 DEBUG bot.py user: 1736358410 Y None; request text: ok,4
+2022-06-30 16:32:04,575 DEBUG bot.py request text is NOT correct
+2022-06-30 16:32:04,576 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:41:29,666 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 16:41:35,947 DEBUG bot.py Start
+2022-06-30 16:41:43,662 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 16:41:43,779 DEBUG bot.py request text is NOT correct
+2022-06-30 16:41:43,780 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:41:50,263 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 16:41:50,409 DEBUG bot.py request text is NOT correct
+2022-06-30 16:41:50,409 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:42:09,943 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 16:42:10,063 DEBUG bot.py request text is NOT correct
+2022-06-30 16:42:10,064 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:42:12,096 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 16:42:12,328 DEBUG bot.py request text is NOT correct
+2022-06-30 16:42:12,328 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:42:13,762 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 16:42:13,902 DEBUG bot.py request text is NOT correct
+2022-06-30 16:42:13,902 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:42:48,578 DEBUG bot.py Start
+2022-06-30 16:42:55,256 DEBUG bot.py Start
+2022-06-30 16:53:42,310 DEBUG bot.py Start
+2022-06-30 16:53:42,317 DEBUG bot.py Start
+2022-06-30 16:54:07,273 DEBUG bot.py user: 1736358410 Y None; request text: ЕГР
+2022-06-30 16:54:07,462 DEBUG bot.py request text is NOT correct
+2022-06-30 16:54:07,463 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:54:12,211 DEBUG bot.py user: 1736358410 Y None; request text: ИМНС
+2022-06-30 16:54:12,366 DEBUG bot.py request text is NOT correct
+2022-06-30 16:54:12,366 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 16:54:16,989 DEBUG bot.py user: 1736358410 Y None; request text: 22
+2022-06-30 16:54:17,119 DEBUG bot.py request text is NOT correct
+2022-06-30 16:54:17,120 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:00:01,039 DEBUG bot.py Start
+2022-06-30 17:00:01,047 DEBUG bot.py Start
+2022-06-30 17:00:09,594 DEBUG bot.py user: 1736358410 Y None; request text: /start
+2022-06-30 17:00:09,742 DEBUG bot.py request text is NOT correct
+2022-06-30 17:00:09,742 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:01:51,247 DEBUG bot.py Start
+2022-06-30 17:01:51,254 DEBUG bot.py Start
+2022-06-30 17:04:32,068 DEBUG bot.py Start
+2022-06-30 17:04:32,076 DEBUG bot.py Start
+2022-06-30 17:05:37,426 DEBUG bot.py Start
+2022-06-30 17:05:37,434 DEBUG bot.py Start
+2022-06-30 17:05:41,081 DEBUG bot.py Start
+2022-06-30 17:05:41,089 DEBUG bot.py Start
+2022-06-30 17:06:48,540 DEBUG bot.py Start
+2022-06-30 17:06:48,548 DEBUG bot.py Start
+2022-06-30 17:07:02,827 DEBUG bot.py Start
+2022-06-30 17:07:02,835 DEBUG bot.py Start
+2022-06-30 17:07:08,407 DEBUG bot.py user: 1736358410 Y None; request text: 6
+2022-06-30 17:07:08,518 DEBUG bot.py request text is NOT correct
+2022-06-30 17:07:08,518 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:07:12,076 DEBUG bot.py user: 1736358410 Y None; request text: 9500000
+2022-06-30 17:07:12,259 DEBUG bot.py request text is NOT correct
+2022-06-30 17:07:12,259 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:10:25,588 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:10:25,652 DEBUG bot.py Start
+2022-06-30 17:10:25,664 DEBUG bot.py Start
+2022-06-30 17:10:33,397 DEBUG bot.py user: 1736358410 Y None; request text: 5
+2022-06-30 17:10:33,552 DEBUG bot.py request text is NOT correct
+2022-06-30 17:10:33,552 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:10:38,902 DEBUG bot.py user: 1736358410 Y None; request text: 555555555
+2022-06-30 17:10:38,902 DEBUG bot.py request text is correct
+2022-06-30 17:10:39,098 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:10:39,251 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 17:10:39,301 DEBUG egr_request.py status code 204
+2022-06-30 17:10:39,612 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:11:28,893 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:11:28,942 DEBUG bot.py Start
+2022-06-30 17:11:28,951 DEBUG bot.py Start
+2022-06-30 17:11:37,296 DEBUG bot.py user: 1736358410 Y None; request text: 555555555
+2022-06-30 17:11:37,296 DEBUG bot.py request text is correct
+2022-06-30 17:11:37,424 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:11:37,555 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:14:20,404 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:14:20,479 DEBUG bot.py Start
+2022-06-30 17:14:20,500 DEBUG bot.py Start
+2022-06-30 17:14:35,719 DEBUG bot.py user: 1736358410 Y None; request text: 555555555
+2022-06-30 17:14:35,719 DEBUG bot.py request text is correct
+2022-06-30 17:14:35,889 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:14:36,191 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:16:24,664 DEBUG bot.py Start
+2022-06-30 17:16:24,671 DEBUG bot.py Start
+2022-06-30 17:16:29,873 DEBUG bot.py user: 1736358410 Y None; request text: 555555555
+2022-06-30 17:16:29,873 DEBUG bot.py request text is correct
+2022-06-30 17:16:30,004 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:16:30,165 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:18:13,314 DEBUG bot.py Start
+2022-06-30 17:18:13,322 DEBUG bot.py Start
+2022-06-30 17:18:18,636 DEBUG bot.py user: 1736358410 Y None; request text: lhb
+2022-06-30 17:18:18,744 DEBUG bot.py request text is NOT correct
+2022-06-30 17:18:18,745 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:18:23,434 DEBUG bot.py user: 1736358410 Y None; request text: 555555555
+2022-06-30 17:18:23,434 DEBUG bot.py request text is correct
+2022-06-30 17:18:23,543 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:18:23,650 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:19:55,863 DEBUG bot.py Start
+2022-06-30 17:19:55,870 DEBUG bot.py Start
+2022-06-30 17:20:17,656 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:20:17,656 DEBUG bot.py request text is correct
+2022-06-30 17:20:17,756 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:20:17,855 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:23:13,687 DEBUG bot.py Start
+2022-06-30 17:23:13,694 DEBUG bot.py Start
+2022-06-30 17:23:24,401 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:23:24,401 DEBUG bot.py request text is correct
+2022-06-30 17:23:24,562 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:23:24,723 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:25:21,014 DEBUG bot.py Start
+2022-06-30 17:25:21,046 DEBUG bot.py Start
+2022-06-30 17:25:48,528 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:25:52,531 DEBUG bot.py request text is correct
+2022-06-30 17:25:56,884 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:26:07,971 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:27:12,109 DEBUG bot.py Start
+2022-06-30 17:27:12,117 DEBUG bot.py Start
+2022-06-30 17:27:24,413 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:27:24,413 DEBUG bot.py request text is correct
+2022-06-30 17:27:24,536 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:27:24,692 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:27:24,904 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 17:27:40,019 DEBUG bot.py Start
+2022-06-30 17:27:40,026 DEBUG bot.py Start
+2022-06-30 17:27:46,780 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:27:46,780 DEBUG bot.py request text is correct
+2022-06-30 17:27:46,972 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:27:47,197 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:27:47,802 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 17:29:20,569 DEBUG bot.py Start
+2022-06-30 17:29:20,576 DEBUG bot.py Start
+2022-06-30 17:29:28,861 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:29:28,861 DEBUG bot.py request text is correct
+2022-06-30 17:29:28,987 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:29:29,155 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 17:30:28,681 DEBUG bot.py Start
+2022-06-30 17:30:28,689 DEBUG bot.py Start
+2022-06-30 17:30:29,197 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 17:30:29,197 DEBUG bot.py request text is correct
+2022-06-30 17:30:29,331 DEBUG bot.py start function request_to_regietr
+2022-06-30 17:30:29,463 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 17:30:29,836 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:21:42,818 DEBUG bot.py Start
+2022-06-30 19:21:42,827 DEBUG bot.py Start
+2022-06-30 19:22:02,097 DEBUG bot.py user: 1736358410 Y None; request text: Пе
+2022-06-30 19:22:02,203 DEBUG bot.py request text is NOT correct
+2022-06-30 19:22:02,204 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 19:22:11,002 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 19:22:11,003 DEBUG bot.py request text is correct
+2022-06-30 19:22:11,156 DEBUG bot.py start function request_to_regietr
+2022-06-30 19:22:11,273 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 19:22:11,648 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:22:49,713 DEBUG egr_request.py status code 200
+2022-06-30 19:24:14,731 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+Наименование: Частное транспортное унитарное предприятие "АвтоКурсТранс"
+Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3, ком.5
+Состояние: Действующий
+Регистрационный номер: 690647902
+Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+Дата регистрации: 2008-03-11
+телефон: 8-0296277210
+сайт: None
+email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-06-30 19:24:15,033 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 19:26:35,348 DEBUG bot.py Start
+2022-06-30 19:26:35,356 DEBUG bot.py Start
+2022-06-30 19:28:12,276 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 19:28:12,277 DEBUG bot.py request text is correct
+2022-06-30 19:28:12,439 DEBUG bot.py start function request_to_regietr
+2022-06-30 19:28:12,577 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 19:28:19,980 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:28:50,374 DEBUG egr_request.py status code 200
+2022-06-30 19:29:56,624 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+Наименование: Частное транспортное унитарное предприятие "АвтоКурсТранс"
+Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3, ком.5
+Состояние: Действующий
+Регистрационный номер: 690647902
+Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+Дата регистрации: 2008-03-11
+телефон: 8-0296277210
+сайт: None
+email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-06-30 19:29:56,909 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 19:31:28,296 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:31:58,184 DEBUG egr_request.py status code 200
+2022-06-30 19:33:22,759 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+Наименование: Частное транспортное унитарное предприятие "АвтоКурсТранс"
+Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3, ком.5
+Состояние: Действующий
+Регистрационный номер: 690647902
+Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+Дата регистрации: 2008-03-11
+телефон: 8-0296277210
+сайт: None
+email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-06-30 19:33:40,208 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:34:06,042 DEBUG egr_request.py status code 200
+2022-06-30 19:38:45,122 DEBUG bot.py user: 468583517 Виталий None; request text: 100429079
+2022-06-30 19:38:45,122 DEBUG bot.py request text is correct
+2022-06-30 19:38:45,320 DEBUG bot.py start function request_to_regietr
+2022-06-30 19:38:45,628 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 19:38:48,217 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 19:39:11,215 DEBUG egr_request.py status code 200
+2022-06-30 21:20:50,214 DEBUG bot.py user: 1736358410 Y None; request text: 690647902
+2022-06-30 21:20:50,214 DEBUG bot.py request text is correct
+2022-06-30 21:20:50,314 DEBUG bot.py start function request_to_regietr
+2022-06-30 21:20:50,437 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 21:20:52,756 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 21:21:20,619 DEBUG egr_request.py status code 200
+2022-06-30 21:22:55,240 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+Наименование: Частное транспортное унитарное предприятие "АвтоКурсТранс"
+Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3, ком.5
+Состояние: Действующий
+Регистрационный номер: 690647902
+Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+Дата регистрации: 2008-03-11
+телефон: 8-0296277210
+сайт: None
+email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-06-30 21:22:55,530 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:26:15,776 DEBUG bot.py user: 1736358410 Y None; request text: Нр
+2022-06-30 22:26:15,931 DEBUG bot.py request text is NOT correct
+2022-06-30 22:26:15,931 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:26:52,162 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-06-30 22:26:52,163 DEBUG bot.py request text is correct
+2022-06-30 22:26:52,275 DEBUG bot.py start function request_to_regietr
+2022-06-30 22:26:52,372 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 22:26:54,670 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 22:27:24,079 DEBUG egr_request.py status code 200
+2022-06-30 22:28:24,699 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Наименование: Рожков Юрий Валерьевич
+Адрес: Информация относится к персональным данным. Доступна по ссылке.
+Состояние: Исключен из ЕГР
+Регистрационный номер: 290369312
+Регистрирующий орган (на текущую дату): Брестский районный исполнительный комитет
+Регистрирующий орган (при регистрации): Брестский районный исполнительный комитет
+Дата регистрации: 2004-06-21
+телефон: Информация относится к персональным данным. Доступна по ссылке.
+сайт: Информация относится к персональным данным. Доступна по ссылке.
+email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=290369312
+2022-06-30 22:28:25,050 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:43:46,224 DEBUG bot.py user: 837261741 Денис None; request text: 291543270
+2022-06-30 22:43:46,224 DEBUG bot.py request text is correct
+2022-06-30 22:43:46,319 DEBUG bot.py start function request_to_regietr
+2022-06-30 22:43:46,431 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 22:43:48,772 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 22:44:35,058 DEBUG egr_request.py status code 200
+2022-06-30 22:45:50,118 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Наименование: Дорошук Юлия Александровна
+Адрес: Информация относится к персональным данным. Доступна по ссылке.
+Состояние: Действующий
+Регистрационный номер: 291543270
+Регистрирующий орган (на текущую дату): Администрация Ленинского района г Бреста
+Регистрирующий орган (при регистрации): Администрация Ленинского района г Бреста
+Дата регистрации: 2019-04-15
+телефон: Информация относится к персональным данным. Доступна по ссылке.
+сайт: Информация относится к персональным данным. Доступна по ссылке.
+email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=291543270
+2022-06-30 22:45:50,125 DEBUG bot.py user: 1736358410 Y None; request text: А
+2022-06-30 22:45:50,257 DEBUG bot.py request text is NOT correct
+2022-06-30 22:45:50,257 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:45:50,375 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-30 22:45:50,516 DEBUG bot.py user: 1736358410 Y None; request text: Р
+2022-06-30 22:45:50,519 DEBUG bot.py user: 1736358410 Y None; request text: Прикольно
+2022-06-30 22:45:50,522 DEBUG bot.py user: 1736358410 Y None; request text: Узнало
+2022-06-30 22:45:50,652 DEBUG bot.py request text is NOT correct
+2022-06-30 22:45:50,653 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:45:50,680 DEBUG bot.py request text is NOT correct
+2022-06-30 22:45:50,680 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:45:50,708 DEBUG bot.py request text is NOT correct
+2022-06-30 22:45:50,708 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 22:46:56,270 DEBUG bot.py user: 837261741 Денис None; request text: жопа
+2022-06-30 22:46:56,364 DEBUG bot.py request text is NOT correct
+2022-06-30 22:46:56,365 DEBUG bot.py user: 837261741 Денис None; end request
+2022-06-30 23:02:11,021 DEBUG bot.py user: 1736358410 Y None; request text: итьб
+2022-06-30 23:02:11,202 DEBUG bot.py request text is NOT correct
+2022-06-30 23:02:11,203 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 23:02:19,026 DEBUG bot.py user: 1736358410 Y None; request text: 777777777
+2022-06-30 23:02:19,026 DEBUG bot.py request text is correct
+2022-06-30 23:02:19,231 DEBUG bot.py start function request_to_regietr
+2022-06-30 23:02:19,471 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:04:25,044 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:05:01,435 DEBUG bot.py Start
+2022-06-30 23:05:01,443 DEBUG bot.py Start
+2022-06-30 23:05:09,924 DEBUG bot.py user: 1736358410 Y None; request text: 777777777
+2022-06-30 23:05:09,925 DEBUG bot.py request text is correct
+2022-06-30 23:05:10,050 DEBUG bot.py start function request_to_tax_inspection
+2022-06-30 23:05:10,146 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:05:12,297 DEBUG bot.py start function request_to_regietr
+2022-06-30 23:05:12,401 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 23:07:50,484 DEBUG bot.py user: 485290587 Crownless X; request text: Хуй тебе
+2022-06-30 23:07:50,575 DEBUG bot.py request text is NOT correct
+2022-06-30 23:07:50,575 DEBUG bot.py user: 485290587 Crownless X; end request
+2022-06-30 23:07:56,223 DEBUG bot.py user: 485290587 Crownless X; request text: Дурак ты
+2022-06-30 23:07:56,348 DEBUG bot.py request text is NOT correct
+2022-06-30 23:07:56,348 DEBUG bot.py user: 485290587 Crownless X; end request
+2022-06-30 23:08:08,610 DEBUG bot.py user: 485290587 Crownless X; request text: -111111111
+2022-06-30 23:08:08,706 DEBUG bot.py request text is NOT correct
+2022-06-30 23:08:08,706 DEBUG bot.py user: 485290587 Crownless X; end request
+2022-06-30 23:08:14,920 DEBUG bot.py user: 485290587 Crownless X; request text: 000000000
+2022-06-30 23:08:14,921 DEBUG bot.py request text is correct
+2022-06-30 23:08:15,017 DEBUG bot.py start function request_to_tax_inspection
+2022-06-30 23:08:15,115 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:08:17,280 DEBUG bot.py start function request_to_regietr
+2022-06-30 23:08:17,369 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 23:14:42,229 DEBUG bot.py user: 1736358410 Y None; request text: аи
+2022-06-30 23:14:42,365 DEBUG bot.py request text is NOT correct
+2022-06-30 23:14:42,365 DEBUG bot.py user: 1736358410 Y None; end request
+2022-06-30 23:14:47,260 DEBUG bot.py user: 1736358410 Y None; request text: 999999999
+2022-06-30 23:14:47,260 DEBUG bot.py request text is correct
+2022-06-30 23:14:47,368 DEBUG bot.py start function request_to_tax_inspection
+2022-06-30 23:14:47,505 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:14:49,689 DEBUG bot.py start function request_to_regietr
+2022-06-30 23:14:50,022 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-06-30 23:16:27,433 DEBUG bot.py Start
+2022-06-30 23:16:27,440 DEBUG bot.py Start
+2022-06-30 23:16:41,231 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-06-30 23:16:41,232 DEBUG bot.py request text is correct
+2022-06-30 23:16:41,334 DEBUG bot.py start function request_to_tax_inspection
+2022-06-30 23:16:41,447 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-06-30 23:16:43,649 DEBUG bot.py start function request_to_regietr
+2022-06-30 23:16:43,750 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 05:44:06,921 DEBUG bot.py user: 1736358410 Y None; request text: тормоз?
+2022-07-01 05:44:07,022 DEBUG bot.py request text is NOT correct
+2022-07-01 05:44:07,022 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 05:44:13,227 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 05:44:13,227 DEBUG bot.py request text is correct
+2022-07-01 05:44:13,332 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 05:44:13,438 DEBUG tax_inspspection_request.py send request to tax inspection
+2022-07-01 05:44:17,357 DEBUG bot.py start function request_to_regietr
+2022-07-01 05:44:17,515 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:07:17,870 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:08:33,084 DEBUG egr_request.py status code 200
+2022-07-01 06:09:39,564 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:09:54,407 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan="+str(regnum)
+2022-07-01 06:13:16,870 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan="+str(regnum)
+2022-07-01 06:14:32,649 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan="+str(regnum)
+2022-07-01 06:16:15,207 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan="
+2022-07-01 06:17:53,620 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan="
+2022-07-01 06:21:12,077 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-01 06:23:27,761 DEBUG bot.py Start
+2022-07-01 06:23:27,768 DEBUG bot.py Start
+2022-07-01 06:23:36,048 DEBUG bot.py user: 1736358410 Y None; request text: привет
+2022-07-01 06:23:36,154 DEBUG bot.py request text is NOT correct
+2022-07-01 06:23:36,154 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:23:56,268 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:23:56,268 DEBUG bot.py request text is correct
+2022-07-01 06:23:56,384 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:23:56,489 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:24:21,404 DEBUG bot.py Start
+2022-07-01 06:24:21,412 DEBUG bot.py Start
+2022-07-01 06:24:21,779 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:24:21,780 DEBUG bot.py request text is correct
+2022-07-01 06:24:21,783 DEBUG bot.py user: 1736358410 Y None; request text: л
+2022-07-01 06:24:21,941 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:24:22,057 DEBUG bot.py request text is NOT correct
+2022-07-01 06:24:22,057 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:24:22,071 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:24:57,573 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:24:57,577 DEBUG bot.py user: 1736358410 Y None; request text: э
+2022-07-01 06:24:57,673 DEBUG bot.py request text is NOT correct
+2022-07-01 06:24:57,674 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:25:16,709 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:25:38,430 DEBUG tax_inspspection_request.py status code 204
+2022-07-01 06:25:47,669 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:26:03,333 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:27:37,535 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:27:37,596 DEBUG tax_inspspection_request.py status code 404
+2022-07-01 06:27:47,604 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:27:59,009 DEBUG tax_inspspection_request.py status code 404
+2022-07-01 06:28:26,174 DEBUG bot.py Start
+2022-07-01 06:28:26,181 DEBUG bot.py Start
+2022-07-01 06:28:33,418 DEBUG bot.py user: 1736358410 Y None; request text: а
+2022-07-01 06:28:33,506 DEBUG bot.py request text is NOT correct
+2022-07-01 06:28:33,506 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:28:38,956 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:28:38,956 DEBUG bot.py request text is correct
+2022-07-01 06:28:39,099 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:28:39,210 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:28:39,263 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:28:40,356 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:28:40,466 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:29:20,324 DEBUG egr_request.py status code 200
+2022-07-01 06:29:57,914 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Наименование: Рожков Юрий Валерьевич
+Адрес: Информация относится к персональным данным. Доступна по ссылке.
+Состояние: Исключен из ЕГР
+Регистрационный номер: 290369312
+Регистрирующий орган (на текущую дату): Брестский районный исполнительный комитет
+Регистрирующий орган (при регистрации): Брестский районный исполнительный комитет
+Дата регистрации: 2004-06-21
+телефон: Информация относится к персональным данным. Доступна по ссылке.
+сайт: Информация относится к персональным данным. Доступна по ссылке.
+email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-01 06:29:58,170 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:34:10,550 DEBUG bot.py Start
+2022-07-01 06:34:10,557 DEBUG bot.py Start
+2022-07-01 06:34:16,458 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:34:16,458 DEBUG bot.py request text is correct
+2022-07-01 06:34:16,548 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:34:16,635 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:34:16,680 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:34:17,799 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:34:17,915 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:34:48,736 DEBUG egr_request.py status code 200
+2022-07-01 06:34:48,737 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Адрес: Информация относится к персональным данным. Доступна по ссылке.
+Состояние: Исключен из ЕГР
+Регистрационный номер: 290369312
+Регистрирующий орган (на текущую дату): Брестский районный исполнительный комитет
+Регистрирующий орган (при регистрации): Брестский районный исполнительный комитет
+Дата регистрации: 2004-06-21
+телефон: Информация относится к персональным данным. Доступна по ссылке.
+сайт: Информация относится к персональным данным. Доступна по ссылке.
+email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-01 06:34:49,057 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:36:39,473 DEBUG bot.py Start
+2022-07-01 06:36:39,480 DEBUG bot.py Start
+2022-07-01 06:36:39,817 DEBUG bot.py user: 1736358410 Y None; request text: ам
+2022-07-01 06:36:39,934 DEBUG bot.py request text is NOT correct
+2022-07-01 06:36:39,934 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:38:13,219 DEBUG bot.py Start
+2022-07-01 06:38:13,226 DEBUG bot.py Start
+2022-07-01 06:38:44,193 DEBUG bot.py Start
+2022-07-01 06:38:44,201 DEBUG bot.py Start
+2022-07-01 06:38:50,349 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:38:50,350 DEBUG bot.py request text is correct
+2022-07-01 06:38:50,438 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:38:50,556 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:38:50,601 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:38:51,692 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:38:51,786 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:39:02,999 DEBUG egr_request.py status code 200
+2022-07-01 06:39:03,000 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+Адрес: 
+Информация относится к персональным данным. Доступна по ссылке.
+
+Состояние: Исключен из ЕГР
+Регистрационный номер: 290369312
+Регистрирующий орган (на текущую дату): Брестский районный исполнительный комитет
+Регистрирующий орган (при регистрации): Брестский районный исполнительный комитет
+Дата регистрации: 2004-06-21
+телефон: Информация относится к персональным данным. Доступна по ссылке.\n
+сайт: Информация относится к персональным данным. Доступна по ссылке.\n
+email: Информация относится к персональным данным. Доступна по ссылке.\n 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-01 06:39:03,103 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:41:09,611 DEBUG bot.py Start
+2022-07-01 06:41:09,618 DEBUG bot.py Start
+2022-07-01 06:41:15,267 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-01 06:41:15,268 DEBUG bot.py request text is correct
+2022-07-01 06:41:15,463 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:41:15,616 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:41:15,661 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:41:16,784 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:41:16,870 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:41:55,546 DEBUG egr_request.py status code 200
+2022-07-01 06:41:55,547 DEBUG egr_request.py send response Тип субъекта: Индивидуальный предприниматель
+- Адрес: Информация относится к персональным данным. Доступна по ссылке.
+- Состояние: Исключен из ЕГР
+- Регистрационный номер: 290369312
+- Регистрирующий орган (на текущую дату): Брестский районный исполнительный комитет
+- Регистрирующий орган (при регистрации): Брестский районный исполнительный комитет
+- Дата регистрации: 2004-06-21
+- телефон: Информация относится к персональным данным. Доступна по ссылке.
+- сайт: Информация относится к персональным данным. Доступна по ссылке.
+- email: Информация относится к персональным данным. Доступна по ссылке. 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-01 06:41:55,820 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:46:06,739 DEBUG bot.py user: 1736358410 Y None; request text: Fhf
+2022-07-01 06:46:06,840 DEBUG bot.py request text is NOT correct
+2022-07-01 06:46:06,841 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:46:36,148 DEBUG bot.py user: 1736358410 Y None; request text: 190604746
+2022-07-01 06:46:36,148 DEBUG bot.py request text is correct
+2022-07-01 06:46:36,267 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:46:36,380 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:46:36,434 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:46:37,561 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:46:37,668 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:47:11,660 DEBUG egr_request.py status code 200
+2022-07-01 06:47:32,344 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 220013, Республика Беларусь, г.Минск, ул.Я.Коласа, 15, кв.46
+- Состояние: Действующий
+- Регистрационный номер: 190604746
+- Регистрирующий орган (на текущую дату): Минский городской исполнительный комитет
+- Регистрирующий орган (при регистрации): Администрация Советского района г. Минска
+- Дата регистрации: 2005-02-16
+- телефон: 6764938 2021047д 2328063
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=190604746
+2022-07-01 06:47:32,623 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:54:06,289 DEBUG bot.py user: 1736358410 Y None; request text: Р
+2022-07-01 06:54:06,384 DEBUG bot.py request text is NOT correct
+2022-07-01 06:54:06,384 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:55:13,985 DEBUG bot.py Start
+2022-07-01 06:55:13,993 DEBUG bot.py Start
+2022-07-01 06:55:24,288 DEBUG bot.py user: 1736358410 Y None; request text: 190604746
+2022-07-01 06:55:24,289 DEBUG bot.py request text is correct
+2022-07-01 06:55:24,383 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 06:55:24,468 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 06:55:24,516 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 06:55:25,627 DEBUG bot.py start function request_to_regietr
+2022-07-01 06:55:25,717 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 06:55:49,914 DEBUG egr_request.py status code 200
+2022-07-01 06:55:49,915 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 06:56:20,144 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 220013, Республика Беларусь, г.Минск, ул.Я.Коласа, 15, кв.46
+- Состояние: Действующий
+- Регистрационный номер: 190604746
+- Регистрирующий орган (на текущую дату): Минский городской исполнительный комитет
+- Регистрирующий орган (при регистрации): Администрация Советского района г. Минска
+- Дата регистрации: 2005-02-16
+- телефон: 6764938 2021047д 2328063
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=190604746
+2022-07-01 06:56:20,423 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 06:58:05,149 DEBUG bot.py user: 1736358410 Y None; request text: 220013
+2022-07-01 06:58:05,236 DEBUG bot.py request text is NOT correct
+2022-07-01 06:58:05,237 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 07:07:25,119 DEBUG bot.py user: 1736358410 Y None; request text: О
+2022-07-01 07:07:25,244 DEBUG bot.py request text is NOT correct
+2022-07-01 07:07:25,245 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 07:59:17,411 DEBUG bot.py user: 564063635 Максим Шпакович; request text: 100429079
+2022-07-01 07:59:17,411 DEBUG bot.py request text is correct
+2022-07-01 07:59:17,516 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 07:59:17,632 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 07:59:17,678 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 07:59:18,826 DEBUG bot.py start function request_to_regietr
+2022-07-01 07:59:18,935 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 07:59:50,383 DEBUG egr_request.py status code 200
+2022-07-01 07:59:50,384 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 08:04:08,027 DEBUG bot.py user: 1736358410 Y None; request text: Ш
+2022-07-01 08:04:08,137 DEBUG bot.py request text is NOT correct
+2022-07-01 08:04:08,137 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 08:04:17,141 DEBUG bot.py user: 1736358410 Y None; request text: Тест 08.04
+2022-07-01 08:04:17,252 DEBUG bot.py request text is NOT correct
+2022-07-01 08:04:17,252 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 08:05:45,902 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-01 08:05:45,903 DEBUG bot.py request text is correct
+2022-07-01 08:05:46,095 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 08:05:46,189 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 08:05:48,690 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 08:05:49,868 DEBUG bot.py start function request_to_regietr
+2022-07-01 08:05:49,991 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 08:06:09,577 DEBUG egr_request.py status code 200
+2022-07-01 08:06:09,579 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 08:43:59,001 DEBUG bot.py user: 1736358410 Y None; request text: Пр
+2022-07-01 08:43:59,109 DEBUG bot.py request text is NOT correct
+2022-07-01 08:43:59,109 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 10:53:17,763 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-01 10:53:17,764 DEBUG bot.py request text is correct
+2022-07-01 10:53:17,935 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 10:53:18,166 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 10:53:18,213 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 10:53:19,481 DEBUG bot.py start function request_to_regietr
+2022-07-01 10:53:19,580 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 10:53:44,489 DEBUG egr_request.py status code 200
+2022-07-01 10:53:44,490 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 12:19:00,369 DEBUG bot.py user: 1736358410 Y None; request text: 00000000
+2022-07-01 12:19:00,576 DEBUG bot.py request text is NOT correct
+2022-07-01 12:19:00,576 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 12:19:09,278 DEBUG bot.py user: 1736358410 Y None; request text: 0000000000
+2022-07-01 12:19:09,387 DEBUG bot.py request text is NOT correct
+2022-07-01 12:19:09,387 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 12:19:14,193 DEBUG bot.py user: 1736358410 Y None; request text: 000000000
+2022-07-01 12:19:14,193 DEBUG bot.py request text is correct
+2022-07-01 12:19:14,357 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 12:19:14,602 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 12:19:14,762 DEBUG tax_inspspection_request.py status code 404
+2022-07-01 12:19:15,876 DEBUG bot.py start function request_to_regietr
+2022-07-01 12:19:15,988 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 12:19:45,219 DEBUG egr_request.py status code 204
+2022-07-01 12:19:45,559 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-01 12:20:07,034 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-01 12:20:07,034 DEBUG bot.py request text is correct
+2022-07-01 12:20:07,152 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 12:20:07,254 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 12:20:07,297 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 12:20:08,417 DEBUG bot.py start function request_to_regietr
+2022-07-01 12:20:08,539 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 12:20:40,619 DEBUG egr_request.py status code 200
+2022-07-01 12:20:40,619 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 15:02:51,840 DEBUG bot.py user: 601865909 Mikhail Karabeinik; request text: 100429079
+2022-07-01 15:02:51,854 DEBUG bot.py request text is correct
+2022-07-01 15:02:51,967 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 15:02:52,095 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 15:02:52,267 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 15:02:53,419 DEBUG bot.py start function request_to_regietr
+2022-07-01 15:02:53,558 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 15:03:34,132 DEBUG egr_request.py status code 200
+2022-07-01 15:03:34,133 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 15:04:23,494 DEBUG bot.py user: 533978596 Alex711 None; request text: 590877744
+2022-07-01 15:04:23,495 DEBUG bot.py request text is correct
+2022-07-01 15:04:23,698 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 15:04:23,868 DEBUG bot.py user: 601865909 Mikhail Karabeinik; request text: 193383076
+2022-07-01 15:04:23,869 DEBUG bot.py request text is correct
+2022-07-01 15:04:24,097 DEBUG bot.py start function request_to_tax_inspection
+2022-07-01 15:04:24,210 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 15:04:24,254 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 15:04:24,307 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-01 15:04:24,399 DEBUG tax_inspspection_request.py status code 200
+2022-07-01 15:04:25,469 DEBUG bot.py start function request_to_regietr
+2022-07-01 15:04:26,475 DEBUG bot.py start function request_to_regietr
+2022-07-01 15:04:26,479 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 15:05:12,539 DEBUG egr_request.py status code 200
+2022-07-01 15:05:12,539 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 15:05:55,452 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-01 15:06:24,240 DEBUG egr_request.py status code 200
+2022-07-01 15:06:24,241 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-01 15:06:57,427 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 220007, Республика Беларусь, г.Минск, ул.Кальварийская, 16, оф.272
+- Состояние: Действующий
+- Регистрационный номер: 193383076
+- Регистрирующий орган (на текущую дату): Минский городской исполнительный комитет
+- Регистрирующий орган (при регистрации): Минский городской исполнительный комитет
+- Дата регистрации: 2020-02-11
+- телефон: +375 25 780-59-38
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=193383076
+2022-07-01 15:06:57,728 DEBUG bot.py user: 601865909 Mikhail Karabeinik; end request

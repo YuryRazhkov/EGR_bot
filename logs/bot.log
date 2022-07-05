@@ -1,0 +1,506 @@
+2022-07-04 06:10:08,815 DEBUG bot.py Start
+2022-07-04 06:10:08,845 DEBUG bot.py Start
+2022-07-04 06:10:34,093 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 06:10:34,093 DEBUG bot.py request text is correct
+2022-07-04 06:10:34,229 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 06:10:34,339 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 06:10:34,493 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 06:10:36,207 DEBUG bot.py start function request_to_regietr
+2022-07-04 06:10:36,305 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 06:10:36,349 DEBUG egr_request.py status code 200
+2022-07-04 06:10:36,349 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 06:12:18,034 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 06:12:18,071 DEBUG egr_request.py status code 200
+2022-07-04 06:12:18,072 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 06:12:18,115 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3-2, каб.55
+- Состояние: Действующий
+- Регистрационный номер: 690647902
+- Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+- Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+- Дата регистрации: 2008-03-11
+- телефон: 017-3966693
+044-6277210
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-07-04 06:13:37,164 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 06:13:54,696 DEBUG egr_request.py status code 200
+2022-07-04 06:13:54,696 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 06:13:58,383 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3-2, каб.55
+- Состояние: Действующий
+- Регистрационный номер: 690647902
+- Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+- Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+- Дата регистрации: 2008-03-11
+- телефон: 017-3966693
+044-6277210
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-07-04 06:16:18,525 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 06:16:30,908 DEBUG bot.py Start
+2022-07-04 06:16:30,936 DEBUG bot.py Start
+2022-07-04 06:16:38,415 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 06:16:38,415 DEBUG bot.py request text is correct
+2022-07-04 06:16:38,529 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 06:16:38,620 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 06:16:38,662 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 06:16:39,770 DEBUG bot.py start function request_to_regietr
+2022-07-04 06:16:39,872 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 06:16:39,990 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 18:31:36,388 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:31:57,143 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:32:15,303 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:34:22,258 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:36:52,461 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:37:03,718 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 18:39:24,112 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 19:12:06,106 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 19:12:25,414 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 19:27:14,322 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 19:27:24,410 DEBUG egr_request_http.py send request "https://egr.gov.by/egrmobile/information?pan=290369312
+2022-07-04 20:02:19,135 DEBUG bot.py Start
+2022-07-04 20:02:19,154 DEBUG bot.py Start
+2022-07-04 20:02:40,799 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 20:02:40,799 DEBUG bot.py request text is correct
+2022-07-04 20:02:40,987 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 20:02:41,206 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 20:02:41,279 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 20:02:42,438 DEBUG bot.py start function request_to_regietr
+2022-07-04 20:02:42,895 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:02:43,205 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 20:32:59,777 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:38:01,288 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:38:01,339 DEBUG egr_request.py status code 200
+2022-07-04 20:38:01,339 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 20:38:01,387 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3-2, каб.55
+- Состояние: Действующий
+- Регистрационный номер: 690647902
+- Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+- Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+- Дата регистрации: 2008-03-11
+- телефон: 017-3966693
+044-6277210
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-07-04 20:39:59,610 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:40:00,012 DEBUG egr_request.py status code 200
+2022-07-04 20:40:00,012 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 20:40:00,057 DEBUG egr_request.py send response Тип субъекта: Юридическое лицо
+- Адрес: 222224, Республика Беларусь, д.Волма, ул.Колодищанская, 3-2, каб.55
+- Состояние: Действующий
+- Регистрационный номер: 690647902
+- Регистрирующий орган (на текущую дату): Минский областной исполнительный комитет
+- Регистрирующий орган (при регистрации): Смолевичский районный исполнительный комитет
+- Дата регистрации: 2008-03-11
+- телефон: 017-3966693
+044-6277210
+- сайт: None
+- email: None 
+
+Отчет о субъект можно посмотреть по ссылке:
+https://egr.gov.by/egrmobile/information?pan=690647902
+2022-07-04 20:41:00,659 DEBUG bot.py Start
+2022-07-04 20:41:00,666 DEBUG bot.py Start
+2022-07-04 20:41:15,145 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 20:41:15,145 DEBUG bot.py request text is correct
+2022-07-04 20:41:15,345 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 20:41:15,484 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 20:41:15,633 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 20:41:16,995 DEBUG bot.py start function request_to_regietr
+2022-07-04 20:41:17,151 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:41:17,199 DEBUG egr_request.py status code 200
+2022-07-04 20:41:17,200 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 20:42:37,817 DEBUG egr_request.py send request getBaseInfoByRegNum
+2022-07-04 20:42:37,856 DEBUG egr_request.py status code 200
+2022-07-04 20:42:37,856 DEBUG egr_request.py send request getAllAddressByRegNum
+2022-07-04 21:03:31,560 DEBUG bot.py Start
+2022-07-04 21:03:31,567 DEBUG bot.py Start
+2022-07-04 21:03:41,867 DEBUG bot.py user: 1736358410 Y None; request text: response_str
+2022-07-04 21:03:42,373 DEBUG bot.py request text is NOT correct
+2022-07-04 21:03:42,373 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 21:03:47,901 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 21:03:47,902 DEBUG bot.py request text is correct
+2022-07-04 21:03:48,412 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 21:03:48,732 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 21:03:48,789 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 21:03:50,340 DEBUG bot.py start function request_to_regietr
+2022-07-04 21:03:50,876 DEBUG egr_request.py send request EGR
+2022-07-04 21:03:50,946 DEBUG egr_request.py status code 200
+2022-07-04 21:03:51,263 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 21:12:46,584 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 21:12:46,584 DEBUG bot.py request text is correct
+2022-07-04 21:12:46,695 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 21:12:46,838 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 21:12:46,882 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 21:12:47,997 DEBUG bot.py start function request_to_regietr
+2022-07-04 21:12:48,122 DEBUG egr_request.py send request EGR
+2022-07-04 21:12:48,179 DEBUG egr_request.py status code 200
+2022-07-04 21:12:48,360 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 21:16:04,483 DEBUG just_bel_request.py status code 200
+2022-07-04 21:16:25,778 DEBUG just_bel_request.py status code 200
+2022-07-04 21:17:21,718 DEBUG just_bel_request.py status code 200
+2022-07-04 22:05:23,921 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:05:24,498 DEBUG just_bel_request.py status code 200
+2022-07-04 22:05:31,737 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:05:38,447 DEBUG just_bel_request.py status code 200
+2022-07-04 22:06:04,244 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:06:05,050 DEBUG just_bel_request.py status code 200
+2022-07-04 22:06:39,797 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:06:41,434 DEBUG just_bel_request.py status code 200
+2022-07-04 22:07:00,845 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:07:07,470 DEBUG just_bel_request.py status code 200
+2022-07-04 22:09:36,598 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:09:37,019 DEBUG just_bel_request.py status code 200
+2022-07-04 22:11:09,070 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:11:09,592 DEBUG just_bel_request.py status code 200
+2022-07-04 22:13:48,493 DEBUG bot.py Start
+2022-07-04 22:13:48,500 DEBUG bot.py Start
+2022-07-04 22:13:58,142 DEBUG bot.py user: 1736358410 Y None; request text: 291474093
+2022-07-04 22:13:58,142 DEBUG bot.py request text is correct
+2022-07-04 22:13:58,591 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:13:59,276 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:13:59,343 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 22:14:00,382 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:14:00,905 DEBUG egr_request.py send request EGR
+2022-07-04 22:14:00,952 DEBUG egr_request.py status code 200
+2022-07-04 22:14:02,019 DEBUG bot.py start function request_just_bel
+2022-07-04 22:14:02,450 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:14:03,266 DEBUG just_bel_request.py status code 200
+2022-07-04 22:14:03,877 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:14:34,806 DEBUG bot.py user: 1736358410 Y None; request text: 291474043
+2022-07-04 22:14:34,806 DEBUG bot.py request text is correct
+2022-07-04 22:14:34,984 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:14:35,157 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:14:35,211 DEBUG tax_inspspection_request.py status code 404
+2022-07-04 22:14:35,908 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:14:36,239 DEBUG egr_request.py send request EGR
+2022-07-04 22:14:36,276 DEBUG egr_request.py status code 204
+2022-07-04 22:14:37,032 DEBUG bot.py start function request_just_bel
+2022-07-04 22:14:37,284 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:14:37,788 DEBUG just_bel_request.py status code 200
+2022-07-04 22:14:38,195 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:14:57,637 DEBUG bot.py user: 1736358410 Y None; request text: 190604746
+2022-07-04 22:14:57,638 DEBUG bot.py request text is correct
+2022-07-04 22:14:57,762 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:14:57,891 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:14:57,938 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 22:14:58,628 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:14:58,738 DEBUG egr_request.py send request EGR
+2022-07-04 22:14:58,784 DEBUG egr_request.py status code 200
+2022-07-04 22:14:59,691 DEBUG bot.py start function request_just_bel
+2022-07-04 22:14:59,799 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:15:00,301 DEBUG just_bel_request.py status code 200
+2022-07-04 22:15:00,429 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:17:33,996 DEBUG bot.py user: 1736358410 Y None; request text: 291474043
+2022-07-04 22:17:33,996 DEBUG bot.py request text is correct
+2022-07-04 22:17:34,170 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:17:34,392 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:17:34,439 DEBUG tax_inspspection_request.py status code 404
+2022-07-04 22:17:35,323 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:17:35,493 DEBUG egr_request.py send request EGR
+2022-07-04 22:17:35,530 DEBUG egr_request.py status code 204
+2022-07-04 22:17:36,206 DEBUG bot.py start function request_just_bel
+2022-07-04 22:17:36,386 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:17:37,079 DEBUG just_bel_request.py status code 200
+2022-07-04 22:17:37,260 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:19:57,051 DEBUG bot.py user: 1736358410 Y None; request text: 666666
+2022-07-04 22:19:57,179 DEBUG bot.py request text is NOT correct
+2022-07-04 22:19:57,179 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:20:01,664 DEBUG bot.py user: 1736358410 Y None; request text: 666666666
+2022-07-04 22:20:01,664 DEBUG bot.py request text is correct
+2022-07-04 22:20:01,810 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:20:01,950 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:20:01,999 DEBUG tax_inspspection_request.py status code 404
+2022-07-04 22:20:02,662 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:20:02,784 DEBUG egr_request.py send request EGR
+2022-07-04 22:20:02,831 DEBUG egr_request.py status code 204
+2022-07-04 22:20:03,457 DEBUG bot.py start function request_just_bel
+2022-07-04 22:20:03,620 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:20:05,049 DEBUG just_bel_request.py status code 200
+2022-07-04 22:20:05,225 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-04 22:20:41,296 DEBUG bot.py user: 468583517 Виталий None; request text: 291474093
+2022-07-04 22:20:41,297 DEBUG bot.py request text is correct
+2022-07-04 22:20:41,699 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:20:42,124 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:20:42,180 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 22:20:43,097 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:20:43,548 DEBUG egr_request.py send request EGR
+2022-07-04 22:20:43,591 DEBUG egr_request.py status code 200
+2022-07-04 22:20:44,500 DEBUG bot.py start function request_just_bel
+2022-07-04 22:20:45,084 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:20:45,702 DEBUG just_bel_request.py status code 200
+2022-07-04 22:20:46,148 DEBUG bot.py user: 468583517 Виталий None; end request
+2022-07-04 22:20:54,087 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-04 22:20:54,087 DEBUG bot.py request text is correct
+2022-07-04 22:20:54,196 DEBUG bot.py start function request_to_tax_inspection
+2022-07-04 22:20:54,315 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-04 22:20:54,365 DEBUG tax_inspspection_request.py status code 200
+2022-07-04 22:20:54,976 DEBUG bot.py start function request_to_regietr
+2022-07-04 22:20:55,101 DEBUG egr_request.py send request EGR
+2022-07-04 22:20:55,153 DEBUG egr_request.py status code 200
+2022-07-04 22:20:55,816 DEBUG bot.py start function request_just_bel
+2022-07-04 22:20:55,941 DEBUG just_bel_request.py request to just_bel
+2022-07-04 22:20:56,459 DEBUG just_bel_request.py status code 200
+2022-07-04 22:20:56,633 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 05:43:25,462 DEBUG bot.py Start
+2022-07-05 05:43:25,469 DEBUG bot.py Start
+2022-07-05 05:43:25,857 DEBUG bot.py user: 1736358410 Y None; request text: gre
+2022-07-05 05:43:25,967 DEBUG bot.py request text is NOT correct
+2022-07-05 05:43:25,968 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 06:26:08,857 DEBUG bot.py Start
+2022-07-05 06:26:08,904 DEBUG bot.py Start
+2022-07-05 06:26:16,213 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 06:26:16,213 DEBUG bot.py request text is correct
+2022-07-05 06:26:16,306 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 06:26:16,401 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 06:26:16,464 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 06:26:17,056 DEBUG bot.py start function request_to_regietr
+2022-07-05 06:26:17,154 DEBUG egr_request.py send request EGR
+2022-07-05 06:27:05,947 DEBUG bot.py Start
+2022-07-05 06:27:05,954 DEBUG bot.py Start
+2022-07-05 06:27:12,108 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 06:27:12,108 DEBUG bot.py request text is correct
+2022-07-05 06:27:12,213 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 06:27:12,331 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 06:27:12,370 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 06:27:12,983 DEBUG bot.py start function request_to_regietr
+2022-07-05 06:27:13,080 DEBUG egr_request.py send request EGR
+2022-07-05 06:27:13,125 DEBUG egr_request.py status code 200
+2022-07-05 06:27:13,739 DEBUG bot.py start function request_just_bel
+2022-07-05 06:27:13,841 DEBUG just_bel_request.py request to just_bel
+2022-07-05 06:27:15,370 DEBUG just_bel_request.py status code 200
+2022-07-05 06:27:15,532 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 06:46:38,116 DEBUG bot.py Start
+2022-07-05 06:46:38,134 DEBUG bot.py Start
+2022-07-05 06:47:07,060 DEBUG bot.py Start
+2022-07-05 06:47:07,067 DEBUG bot.py Start
+2022-07-05 06:49:28,440 CRITICAL bot_log.py Test critical event
+2022-07-05 06:49:28,440 ERROR bot_log.py Test error ivent
+2022-07-05 06:49:28,440 DEBUG bot_log.py Test debug ivent
+2022-07-05 06:49:28,440 INFO bot_log.py Test info ivent
+2022-07-05 20:01:18,456 DEBUG bot.py Start
+2022-07-05 20:01:18,494 DEBUG bot.py Start
+2022-07-05 20:01:19,065 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:01:19,065 DEBUG bot.py request text is correct
+2022-07-05 20:01:19,277 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:01:19,459 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:01:19,642 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:01:20,312 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:01:20,501 DEBUG egr_request.py send request EGR
+2022-07-05 20:01:54,123 DEBUG bot.py user: 1736358410 Y None; request text: C
+2022-07-05 20:01:54,325 DEBUG bot.py request text is NOT correct
+2022-07-05 20:01:54,325 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:02:03,677 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:02:03,677 DEBUG bot.py request text is correct
+2022-07-05 20:02:03,818 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:02:03,948 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:02:04,011 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:02:04,763 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:02:05,010 DEBUG egr_request.py send request EGR
+2022-07-05 20:03:21,561 DEBUG bot.py Start
+2022-07-05 20:03:21,569 DEBUG bot.py Start
+2022-07-05 20:03:53,984 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:03:53,984 DEBUG bot.py request text is correct
+2022-07-05 20:03:54,113 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:03:54,258 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:03:54,313 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:03:54,937 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:03:55,083 DEBUG egr_request.py send request EGR
+2022-07-05 20:05:49,167 DEBUG bot.py Start
+2022-07-05 20:05:49,190 DEBUG bot.py Start
+2022-07-05 20:05:55,671 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:05:55,672 DEBUG bot.py request text is correct
+2022-07-05 20:05:55,793 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:05:55,909 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:05:55,973 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:05:56,627 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:05:56,746 DEBUG egr_request.py send request EGR
+2022-07-05 20:07:40,177 DEBUG egr_request.py send request EGR
+2022-07-05 20:08:12,122 DEBUG egr_request.py send request EGR
+2022-07-05 20:13:39,632 DEBUG egr_request.py send request EGR
+2022-07-05 20:14:11,178 DEBUG egr_request.py status code 503
+2022-07-05 20:14:27,327 DEBUG bot.py Start
+2022-07-05 20:14:27,337 DEBUG bot.py Start
+2022-07-05 20:14:35,591 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:14:35,591 DEBUG bot.py request text is correct
+2022-07-05 20:14:35,756 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:14:35,908 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:14:35,967 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:14:36,639 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:14:37,259 DEBUG egr_request.py send request EGR
+2022-07-05 20:14:37,294 DEBUG egr_request.py status code 503
+2022-07-05 20:14:38,004 DEBUG bot.py start function request_just_bel
+2022-07-05 20:14:38,120 DEBUG just_bel_request.py request to just_bel
+2022-07-05 20:14:38,650 DEBUG just_bel_request.py status code 200
+2022-07-05 20:14:38,839 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:15:36,531 DEBUG bot.py Start
+2022-07-05 20:15:36,539 DEBUG bot.py Start
+2022-07-05 20:15:41,535 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:15:41,536 DEBUG bot.py request text is correct
+2022-07-05 20:15:41,649 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:15:41,769 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:15:41,824 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:15:42,447 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:15:42,565 DEBUG egr_request.py send request EGR
+2022-07-05 20:15:43,248 DEBUG bot.py start function request_just_bel
+2022-07-05 20:15:43,395 DEBUG just_bel_request.py request to just_bel
+2022-07-05 20:15:43,813 DEBUG just_bel_request.py status code 200
+2022-07-05 20:15:44,010 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:17:03,898 DEBUG bot.py Start
+2022-07-05 20:17:03,906 DEBUG bot.py Start
+2022-07-05 20:17:29,000 DEBUG bot.py user: 1736358410 Y None; request text: Y, [05.07.2022 20:15]
+290369312
+2022-07-05 20:17:29,150 DEBUG bot.py request text is NOT correct
+2022-07-05 20:17:29,150 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:17:34,302 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:17:34,302 DEBUG bot.py request text is correct
+2022-07-05 20:17:34,518 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:17:34,711 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:17:34,756 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:17:35,438 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:17:35,659 DEBUG egr_request.py send request EGR
+2022-07-05 20:17:36,385 DEBUG bot.py start function request_just_bel
+2022-07-05 20:17:36,585 DEBUG just_bel_request.py request to just_bel
+2022-07-05 20:17:37,043 DEBUG just_bel_request.py status code 200
+2022-07-05 20:17:37,295 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:19:07,794 DEBUG bot.py Start
+2022-07-05 20:19:07,801 DEBUG bot.py Start
+2022-07-05 20:19:18,714 DEBUG bot.py user: 1736358410 Y None; request text: response = session.get(f'http://egr.gov.by/api/v2/egr/getBaseInfoByRegNum/{regnum}')
+        # response_code = response.status_code
+        # logger.debug(f'status code {response_code}')
+2022-07-05 20:19:18,860 DEBUG bot.py request text is NOT correct
+2022-07-05 20:19:18,861 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:19:29,945 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 20:19:29,945 DEBUG bot.py request text is correct
+2022-07-05 20:19:30,106 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 20:19:30,233 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 20:19:30,276 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 20:19:30,886 DEBUG bot.py start function request_to_regietr
+2022-07-05 20:19:31,004 DEBUG egr_request.py send request EGR
+2022-07-05 20:21:42,970 DEBUG bot.py start function request_just_bel
+2022-07-05 20:21:43,090 DEBUG just_bel_request.py request to just_bel
+2022-07-05 20:21:44,491 DEBUG just_bel_request.py status code 200
+2022-07-05 20:21:44,729 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 20:48:08,395 DEBUG egr_request.py send request EGR
+2022-07-05 20:48:08,490 DEBUG egr_request.py status code 503
+2022-07-05 20:48:09,559 DEBUG egr_request.py status code 503
+2022-07-05 20:54:31,112 DEBUG egr_request.py send request EGR
+2022-07-05 20:54:31,172 DEBUG egr_request.py status code 503
+2022-07-05 20:54:34,253 DEBUG egr_request.py status code 503
+2022-07-05 20:56:28,559 DEBUG egr_request.py send request EGR
+2022-07-05 20:56:45,496 DEBUG egr_request.py status code 503
+2022-07-05 21:02:02,424 DEBUG egr_request.py send request EGR
+2022-07-05 21:02:35,511 DEBUG egr_request.py status code 503
+2022-07-05 21:02:35,554 DEBUG egr_request.py status code 503
+2022-07-05 21:03:16,972 DEBUG egr_request.py send request EGR
+2022-07-05 21:03:17,058 DEBUG egr_request.py status code 503
+2022-07-05 21:03:18,122 DEBUG egr_request.py status code 503
+2022-07-05 21:05:28,974 DEBUG bot.py Start
+2022-07-05 21:05:29,074 DEBUG bot.py Start
+2022-07-05 21:05:35,103 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:05:35,103 DEBUG bot.py request text is correct
+2022-07-05 21:05:35,395 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:05:35,679 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:05:35,748 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:05:36,535 DEBUG bot.py start function request_to_regietr
+2022-07-05 21:05:36,819 DEBUG egr_request.py send request EGR
+2022-07-05 21:07:47,851 DEBUG egr_request.py rise except
+2022-07-05 21:08:00,533 DEBUG bot.py start function request_just_bel
+2022-07-05 21:08:03,071 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:08:04,952 DEBUG just_bel_request.py status code 200
+2022-07-05 21:08:07,582 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:27:28,999 DEBUG egr_request.py send request EGR
+2022-07-05 21:27:33,449 DEBUG egr_request.py status code 503
+2022-07-05 21:29:16,728 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:29:16,728 DEBUG bot.py request text is correct
+2022-07-05 21:29:16,843 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:29:16,960 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:29:17,010 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:29:17,636 DEBUG bot.py start function request_to_regietr
+2022-07-05 21:29:17,746 DEBUG egr_request.py send request EGR
+2022-07-05 21:29:33,264 DEBUG egr_request.py status code 503
+2022-07-05 21:29:33,315 DEBUG egr_request.py status code 503
+2022-07-05 21:29:34,915 DEBUG bot.py start function request_just_bel
+2022-07-05 21:29:35,339 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:29:35,740 DEBUG just_bel_request.py status code 200
+2022-07-05 21:29:36,171 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:29:42,667 DEBUG egr_request.py rise except
+2022-07-05 21:33:23,354 DEBUG bot.py Start
+2022-07-05 21:33:23,367 DEBUG bot.py Start
+2022-07-05 21:33:23,842 DEBUG bot.py user: 1736358410 Y None; request text: \n
+2022-07-05 21:33:24,015 DEBUG bot.py request text is NOT correct
+2022-07-05 21:33:24,016 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:33:34,712 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:33:34,712 DEBUG bot.py request text is correct
+2022-07-05 21:33:34,825 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:33:34,948 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:33:34,982 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:33:35,629 DEBUG bot.py start function request_to_registr
+2022-07-05 21:33:35,821 DEBUG egr_request.py send request EGR
+2022-07-05 21:33:36,087 DEBUG egr_request.py status code 503
+2022-07-05 21:35:29,993 DEBUG egr_request.py rise except
+2022-07-05 21:36:59,610 DEBUG bot.py Start
+2022-07-05 21:36:59,622 DEBUG bot.py Start
+2022-07-05 21:37:13,492 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:37:13,492 DEBUG bot.py request text is correct
+2022-07-05 21:37:13,620 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:37:13,766 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:37:13,822 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:37:14,506 DEBUG bot.py start function request_to_registr
+2022-07-05 21:37:14,727 DEBUG egr_request.py send request EGR
+2022-07-05 21:37:44,728 DEBUG egr_request.py rise except
+2022-07-05 21:37:45,652 DEBUG bot.py start function request_just_bel
+2022-07-05 21:37:45,823 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:37:47,248 DEBUG just_bel_request.py status code 200
+2022-07-05 21:37:47,408 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:40:34,224 DEBUG bot.py Start
+2022-07-05 21:40:34,231 DEBUG bot.py Start
+2022-07-05 21:40:47,602 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:40:47,602 DEBUG bot.py request text is correct
+2022-07-05 21:40:47,772 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:40:47,947 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:40:47,991 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:40:48,688 DEBUG bot.py start function request_to_registr
+2022-07-05 21:40:48,850 DEBUG egr_request.py send request EGR
+2022-07-05 21:41:13,851 DEBUG egr_request.py rise except
+2022-07-05 21:41:14,617 DEBUG bot.py start function request_just_bel
+2022-07-05 21:41:14,752 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:41:15,169 DEBUG just_bel_request.py status code 200
+2022-07-05 21:41:15,345 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:44:26,666 DEBUG bot.py Start
+2022-07-05 21:44:26,739 DEBUG bot.py Start
+2022-07-05 21:44:55,020 DEBUG bot.py user: 1736358410 Y None; request text: 222222222
+2022-07-05 21:44:55,021 DEBUG bot.py request text is correct
+2022-07-05 21:44:55,223 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:44:55,420 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:44:55,458 DEBUG tax_inspspection_request.py status code 404
+2022-07-05 21:44:56,140 DEBUG bot.py start function request_to_registr
+2022-07-05 21:44:56,386 DEBUG egr_request.py send request EGR
+2022-07-05 21:44:57,449 DEBUG egr_request.py status code 503
+2022-07-05 21:44:58,086 DEBUG bot.py start function request_just_bel
+2022-07-05 21:44:58,198 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:44:59,631 DEBUG just_bel_request.py status code 200
+2022-07-05 21:44:59,782 DEBUG bot.py user: 1736358410 Y None; end request
+2022-07-05 21:45:24,639 DEBUG bot.py user: 1736358410 Y None; request text: 290369312
+2022-07-05 21:45:24,639 DEBUG bot.py request text is correct
+2022-07-05 21:45:24,793 DEBUG bot.py start function request_to_tax_inspection
+2022-07-05 21:45:24,942 DEBUG tax_inspspection_request.py send request to_tax_inspection
+2022-07-05 21:45:24,985 DEBUG tax_inspspection_request.py status code 200
+2022-07-05 21:45:25,647 DEBUG bot.py start function request_to_registr
+2022-07-05 21:45:25,812 DEBUG egr_request.py send request EGR
+2022-07-05 21:45:28,871 DEBUG egr_request.py status code 503
+2022-07-05 21:45:29,539 DEBUG bot.py start function request_just_bel
+2022-07-05 21:45:29,706 DEBUG just_bel_request.py request to just_bel
+2022-07-05 21:45:30,102 DEBUG just_bel_request.py status code 200
+2022-07-05 21:45:30,369 DEBUG bot.py user: 1736358410 Y None; end request

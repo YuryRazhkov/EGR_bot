@@ -1,0 +1,7 @@
+2022-06-29 17:22:35,738 DEBUG bot.py Start
+2022-06-29 17:22:39,800 DEBUG bot.py user:  1736358410 Y None ; request text: 7еа7н
+2022-06-29 17:22:39,968 DEBUG bot.py request text is NOT correct
+2022-06-29 17:22:39,968 DEBUG bot.py user:  1736358410 Y None ; end request
+2022-06-29 17:22:43,389 DEBUG bot.py user:  1736358410 Y None ; request text: 6пс6еа6епе
+2022-06-29 17:22:43,537 DEBUG bot.py request text is NOT correct
+2022-06-29 17:22:43,537 DEBUG bot.py user:  1736358410 Y None ; end request
